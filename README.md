@@ -2,6 +2,12 @@
 
 A Django-based **Task Management Application** that allows users to create, assign, and track tasks.
 
+
+# 🛠 Technologies Used #
+Backend: Django, Django REST Framework
+
+Database: PostgreSQL
+
 ---
 
 ## 🚀 Setup & Installation
@@ -10,3 +16,4 @@ A Django-based **Task Management Application** that allows users to create, assi
 ```sh
 git clone https://github.com/mdshahabaz/Task-Management-Application.git
 cd Task-Management-Application
+
