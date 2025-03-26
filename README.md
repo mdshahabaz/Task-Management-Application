@@ -16,4 +16,15 @@ Database: PostgreSQL
 ```sh
 git clone https://github.com/mdshahabaz/Task-Management-Application.git
 cd Task-Management-Application
+```
+
+### **2️⃣ Install all the required libraries using requirements.txt**
+```sh
+pip install requirements.txt
+```
+
+### **3️⃣ Run the Python server
+```sh
+python manage.py runserver
+```
 
